@@ -1,4 +1,4 @@
-# RFM_Customer
+# RFM Analysis for Supermarket Customers
 The goals of this project is to analyze supermarket customers using RFM segmentation analysis
 
 ## Original Dataset
