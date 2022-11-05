@@ -1,6 +1,10 @@
 # RFM_Customer
 The goals of this project is to analyze supermarket customers using RFM segmentation analysis
 
+## Original Dataset
+![Screen Shot 2022-11-05 at 14 39 31](https://user-images.githubusercontent.com/106853320/200109183-0e22992a-d97e-4d07-bc3e-6bcbe12c580d.png)
+
+
 ## Segmentation Result 
 
 ![Screen Shot 2022-11-05 at 14 37 40](https://user-images.githubusercontent.com/106853320/200109136-035190be-a170-4f61-ae4a-e8a69656e012.png)
