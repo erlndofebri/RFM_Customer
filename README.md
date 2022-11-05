@@ -3,6 +3,7 @@ The goals of this project is to analyze supermarket customers using RFM segmenta
 
 ## Original Dataset
 ![Screen Shot 2022-11-05 at 14 53 45](https://user-images.githubusercontent.com/106853320/200109725-dfabc898-dffc-44f7-96d4-a7e4bd7a9734.png)
+
 Dataset consist of 541910 Rows and 8 Columns
 
 ## Segmentation Result 
